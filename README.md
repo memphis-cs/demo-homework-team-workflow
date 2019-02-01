@@ -2,13 +2,13 @@
 
 In this demonstration, I will explain the workflow to follow for submitting your boot camp team homework in this course. This workflow was largely inspired by the popular [GitHub Flow](https://guides.github.com/introduction/flow/) workflow.
 
-## ▶️ 1. Initial Setup
+## [▶️](https://www.youtube.com/watch?v=W-EUZbOLsdQ&t=28s&list=PL0s90BggiDzzsLwhp49qf6brCsvUkLUmT&index=2) 1. Initial Setup
 
-### ▶️ 1.1. What the Instructor Sets Up
+### [▶️](https://www.youtube.com/watch?v=W-EUZbOLsdQ&t=39s&list=PL0s90BggiDzzsLwhp49qf6brCsvUkLUmT&index=2) 1.1. What the Instructor Sets Up
 
 Here are the steps I followed to set up each team's project repo.
 
-#### ▶️ 1.1.1. Local Project/Repo Setup
+#### [▶️](https://www.youtube.com/watch?v=W-EUZbOLsdQ&t=51s&list=PL0s90BggiDzzsLwhp49qf6brCsvUkLUmT&index=2) 1.1.1. Local Project/Repo Setup
 
 1. Create a Rails project skeleton.
 1. Add a `.ruby-gemset` configuration file.
@@ -34,7 +34,7 @@ For each homework assignment, your team must first assign each person a differen
 
 Once your team has agreed upon who will do which task, you must perform the following steps to complete and submit the homework.
 
-### ▶️ 2.1. Step 1: Create an Issue for Your Task
+### [▶️](https://www.youtube.com/watch?v=9rmeKwWY7WU&t=28s&list=PL0s90BggiDzzsLwhp49qf6brCsvUkLUmT&index=5) 2.1. Step 1: Create an Issue for Your Task
 
 - When you start a task, create an issue for the task in GitHub.
   - Title the issues using this form: `Homework 5, Task 3` (replacing the numbers with whatever is appropriate for you).
