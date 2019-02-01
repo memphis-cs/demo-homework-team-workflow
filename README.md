@@ -80,6 +80,13 @@ Once your team has agreed upon who will do which task, you must perform the foll
 - Once the reviewer approves the change, they should also merge it into the `master` branch.
 - If other PRs are merged into the `master` branch before yours is, you will need to merge those changes into your topic branch before your PR can be merged.
 
+### 2.6. Fixing Bugs after a PR Has Been Accepted/Merged
+
+- If a buggy PR is accidentally accepted, to correct the bug, you will need to follow steps 1–5 above, but with some small differences. That is, you will need to create an issue for your bug and a PR for your hotfix, and the PR will need to be reviewed and accepted as described above.
+- For bug fixes, the above task steps are changed only as follows:
+  - In step 1, the issue title must begin with `Bug:` and be followed by a brief description of the bug. For example, an acceptable title might be `Bug: Missing test for numericality validation in Homework 5, Task 3`.
+  - In steps 1 and 4, both the issue and PR _Labels_ must be set to _bug_.
+
 ## 3. Submitting Your Team's Work
 
 ### 3.1 Step 1: Create a Release for the Team's Homework Submission
