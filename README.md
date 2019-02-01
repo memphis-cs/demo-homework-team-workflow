@@ -1,4 +1,6 @@
-# [▶️](https://www.youtube.com/watch?v=W-EUZbOLsdQ&t=0s&list=PL0s90BggiDzzsLwhp49qf6brCsvUkLUmT&index=2) Demo: Workflow for Boot Camp Teamwork
+# Demo: Workflow for Boot Camp Teamwork
+
+[**▶️ Play from the beginning**](https://www.youtube.com/watch?v=W-EUZbOLsdQ&t=0s&list=PL0s90BggiDzzsLwhp49qf6brCsvUkLUmT&index=2)
 
 In this demonstration, I will explain the workflow to follow for submitting your boot camp team homework in this course. This workflow was largely inspired by the popular [GitHub Flow](https://guides.github.com/introduction/flow/) workflow.
 
