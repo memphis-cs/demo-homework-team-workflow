@@ -28,7 +28,7 @@ Here are the steps I followed to set up each team's project repo.
 
 Once you have been added as a collaborator on a GitHub repo, you should receive an email invitation containing a link to the repo. Before you begin work on a homework assignment, you must clone the remote GitHub repo (i.e., using `git clone ...`). You need to do this only one time, and you can use the cloned repo for all subsequent homework assignments.
 
-## 2. [▶️](https://www.youtube.com/watch?v=9rmeKwWY7WU&t=0s&list=PL0s90BggiDzzsLwhp49qf6brCsvUkLUmT&index=5) Doing a Homework Task
+## [▶️](https://www.youtube.com/watch?v=9rmeKwWY7WU&t=0s&list=PL0s90BggiDzzsLwhp49qf6brCsvUkLUmT&index=5) 2. Doing a Homework Task
 
 For each homework assignment, your team must first assign each person a different task. There will generally be four tasks to assign (Task 1 through Task 4); however, if your team has only three members, you should ignore Task 4.
 
