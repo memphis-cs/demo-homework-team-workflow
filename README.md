@@ -80,22 +80,22 @@ Once your team has agreed upon who will do which task, you must perform the foll
 - Once the reviewer approves the change, they should also merge it into the `master` branch.
 - If other PRs are merged into the `master` branch before yours is, you will need to merge those changes into your topic branch before your PR can be merged.
 
-### 2.6. Fixing Bugs after a PR Has Been Accepted/Merged
+### [▶️](https://www.youtube.com/watch?v=CCW-bz9vq3o&t=0s&index=10&list=PL0s90BggiDzzsLwhp49qf6brCsvUkLUmT) 2.6. Fixing Bugs after a PR Has Been Accepted/Merged
 
 - If a buggy PR is accidentally accepted, to correct the bug, you will need to follow steps 1–5 above, but with some small differences. That is, you will need to create an issue for your bug and a PR for your hotfix, and the PR will need to be reviewed and accepted as described above.
 - For bug fixes, the above task steps are changed only as follows:
   - In step 1, the issue title must begin with `Bug:` and be followed by a brief description of the bug. For example, an acceptable title might be `Bug: Missing test for numericality validation in Homework 5, Task 3`.
   - In steps 1 and 4, both the issue and PR _Labels_ must be set to _bug_.
 
-## 3. Submitting Your Team's Work
+## [▶️](https://www.youtube.com/watch?v=Wi0cn2qeFYg&t=0s&index=11&list=PL0s90BggiDzzsLwhp49qf6brCsvUkLUmT) 3. Submitting Your Team's Work
 
-### 3.1 Step 1: Create a Release for the Team's Homework Submission
+### [▶️](https://www.youtube.com/watch?v=Wi0cn2qeFYg&t=21s&index=11&list=PL0s90BggiDzzsLwhp49qf6brCsvUkLUmT) 3.1 Step 1: Create a Release for the Team's Homework Submission
 
 - Once all team members tasks have been completed and their PRs have been merged into the `master` branch, your team must create a release for the homework. From the GitHub repo page, one team member must follow the "releases" link and create a new release.
   - Set _Tag version_ to `hw5v1` (replacing the `5` with the number of the homework assignment). If changes (e.g., bug fixes) are made to the release after it is created, you can create a new release that includes the changes—just be sure to increment the version (e.g., `hw5v2`).
   - Set _Target_ to the appropriate commit. If it's the latest commit on the `master` branch, you may select `master`. However, if you want to be sure the correct commit is tagged, you can select it from the _Recent Commits_ menu.
   - Set _Release title_ to `Homework 5, version 1` (replacing the `5` with the number of the homework and `1` with the appropriate version of the release).
 
-### 3.2 Step 2: Submit to Dropbox
+### [▶️](https://www.youtube.com/watch?v=Wi0cn2qeFYg&t=3m36s&index=11&list=PL0s90BggiDzzsLwhp49qf6brCsvUkLUmT) 3.2 Step 2: Submit to Dropbox
 
 - As the last step, your team must submit the URL of the release page to the appropriate eCourseware dropbox. Only one team member needs to perform this step. As mentioned in Step 6, if you need to correct a release, don't forget to resubmit the URL as well to reflect the correct version.
